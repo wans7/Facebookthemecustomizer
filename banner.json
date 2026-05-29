@@ -2,7 +2,7 @@
   "show": true,
   "image": "https://raw.githubusercontent.com/wans7/Facebookthemecustomizer/refs/heads/main/banner.png",
   "link": "https://www.facebook.com/",
-  "height": 60,
-  "width": 80,
+  "height": 20,
+  "width": 40,
   "fit": "cover"
 }
