@@ -1,5 +1,8 @@
 {
   "show": true,
   "image": "https://raw.githubusercontent.com/wans7/Facebookthemecustomizer/refs/heads/main/banner.png",
-  "link": "https://www.facebook.com/"
+  "link": "https://www.facebook.com/",
+  "height": 80,
+  "width": 100,
+  "fit": "cover"
 }
